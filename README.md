@@ -16,12 +16,12 @@ This repo contains a simple example that you can use for testing.
 
 1. `npm install` or `yarn`
 
-## Runing localy
+### Runing localy
 1. `npm run dev` or `yarn dev` 
 2. `open http://localhost:3000` to open the site in your favorite browser
 
 
-Preview: 
+### Preview: 
 
 <img src="images/screenshot.jpg" width="90%">
 
